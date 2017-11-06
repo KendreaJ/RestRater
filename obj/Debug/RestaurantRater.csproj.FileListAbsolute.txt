@@ -1,0 +1,142 @@
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\ApplicationInsights.config
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\RestaurantRater.dll.config
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\RestaurantRater.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\RestaurantRater.pdb
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Antlr3.Runtime.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\EntityFramework.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\EntityFramework.SqlServer.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Web.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Newtonsoft.Json.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Owin.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Helpers.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Mvc.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Optimization.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Razor.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Razor.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\WebGrease.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Helpers.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Mvc.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Optimization.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.Razor.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Razor.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Antlr3.Runtime.pdb
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Newtonsoft.Json.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\EntityFramework.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\EntityFramework.SqlServer.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Web.xml
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.dll
+C:\Users\EFA Computer 3\Documents\Visual Studio 2017\Projects\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.pdb
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\ApplicationInsights.config
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\RestaurantRater.dll.config
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\RestaurantRater.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\RestaurantRater.pdb
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Antlr3.Runtime.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\EntityFramework.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\EntityFramework.SqlServer.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Web.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Newtonsoft.Json.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Owin.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Helpers.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Mvc.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Optimization.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Razor.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Razor.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\WebGrease.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Helpers.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Mvc.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Optimization.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.Razor.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\System.Web.WebPages.Razor.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Antlr3.Runtime.pdb
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Newtonsoft.Json.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\EntityFramework.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\EntityFramework.SqlServer.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\bin\Microsoft.AI.Web.xml
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csprojResolveAssemblyReference.cache
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.csproj.CoreCompileInputs.cache
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.dll
+C:\Users\EFA Computer 3\Desktop\RestaurantRater\RestaurantRater\obj\Debug\RestaurantRater.pdb
